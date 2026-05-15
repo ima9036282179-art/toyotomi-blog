@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ima9036282179-art.github.io/toyotomi-blog/sitemap-index.xml

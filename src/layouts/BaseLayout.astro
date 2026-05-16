@@ -22,7 +22,7 @@ const canonicalUrl = Astro.url.href;
 const pageTitle = `${title} | ${siteTitle}`;
 const ogImageUrl = ogImage
   ? (ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`)
-  : `${siteUrl}/images/ogp-default.jpg`;
+  : `${siteUrl}/images/OGP.jpg`;
 
 const websiteSchema = JSON.stringify({
   '@context': 'https://schema.org',

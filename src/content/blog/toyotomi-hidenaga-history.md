@@ -1,7 +1,8 @@
 ---
 title: "豊臣秀長の生涯と実像｜大和大納言が豊臣政権を支えた理由"
 description: "豊臣秀長（1540〜1591）の生涯を史実から解説。兄・秀吉を支えた「最高の補佐役」の実績・人物像・領国統治・死後の影響をわかりやすくまとめました。"
-pubDate: 2025-01-16
+pubDate: 2026-01-04
+eyecatch: "/toyotomi-blog/images/hidenaga-portrait.jpg"
 category: "史実解説"
 tags: ["史実解説", "豊臣秀長", "大和大納言", "豊臣政権"]
 ---
@@ -23,6 +24,11 @@ tags: ["史実解説", "豊臣秀長", "大和大納言", "豊臣政権"]
 | 出身 | 尾張国愛知郡中村 |
 | 官位 | 従二位・権大納言（大和大納言） |
 | 領地 | 大和・紀伊・和泉＋河内の一部（約110余万石） |
+
+<figure style="text-align:center;margin:1.5rem 0;">
+  <img src="/toyotomi-blog/images/hidenaga-portrait.jpg" alt="豊臣秀長の肖像画" style="max-width:240px;width:100%;border-radius:8px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" loading="lazy" />
+  <figcaption style="font-size:0.8rem;color:#888;margin-top:0.5rem;">豊臣秀長像（春岳院蔵）／パブリックドメイン</figcaption>
+</figure>
 
 ---
 

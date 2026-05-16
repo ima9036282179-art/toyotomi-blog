@@ -71,6 +71,18 @@ tags: ["キャスト・人物", "仲野太賀", "豊臣秀長"]
 
 ---
 
+## 公式インタビュー動画｜Toyotomi Bro's File
+
+NHK公式Instagramによるキャストインタビュー企画。仲野太賀さんが秀長役への思いを語っています。
+
+<div style="display:flex;justify-content:center;margin:1.5rem 0;">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DVGLmOSE7Oi/" data-instgrm-version="14" data-instgrm-captioned style="background:#fff;border:0;border-radius:12px;box-shadow:0 0 1px 0 rgba(0,0,0,.4),0 1px 10px 0 rgba(0,0,0,.1);max-width:540px;width:100%;padding:0;margin:0 auto;">
+  <a href="https://www.instagram.com/reel/DVGLmOSE7Oi/" target="_blank" rel="noopener noreferrer">Instagramで見る</a>
+</blockquote>
+</div>
+
+---
+
 ## まとめ
 
 13歳からキャリアを積み、数々の映画賞を受賞してきた仲野太賀さん。その誠実な演技スタイルは、豊臣秀長という「縁の下の力持ち」の役柄にぴったりです。父・中野英雄さんも俳優という環境で育ちながら、自分だけの道を切り拓いてきた姿は、秀長の人生と重なるものがあるかもしれません。

@@ -71,6 +71,18 @@ tags: ["ドラマ感想", "第14話", "金ヶ崎", "豊臣秀長", "豊臣秀吉
 
 ---
 
+## 公式ダイジェスト動画
+
+NHK公式Instagramが公開している第14話のダイジェスト映像です。
+
+<div style="display:flex;justify-content:center;margin:1.5rem 0;">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DScHM-gERkW/" data-instgrm-version="14" data-instgrm-captioned style="background:#fff;border:0;border-radius:12px;box-shadow:0 0 1px 0 rgba(0,0,0,.4),0 1px 10px 0 rgba(0,0,0,.1);max-width:540px;width:100%;padding:0;margin:0 auto;">
+  <a href="https://www.instagram.com/reel/DScHM-gERkW/" target="_blank" rel="noopener noreferrer">Instagramで見る</a>
+</blockquote>
+</div>
+
+---
+
 ## 次回への布石
 
 金ヶ崎の危機を乗り越えた兄弟が次に向かうのは、浅井・朝倉との正面決戦です。第15話「姉川大合戦」では、松下洸平さん演じる徳川家康が本格的に存在感を放ち始めます。

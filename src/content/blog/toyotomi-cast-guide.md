@@ -10,6 +10,12 @@ tags: ["キャスト・人物", "豊臣秀長", "豊臣秀吉", "キャスト一
 
 「豊臣兄弟！」の主要キャストを役どころとともに紹介します。
 
+<div style="display:flex;justify-content:center;margin:1.5rem 0;">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DRtIyxDjtd1/" data-instgrm-version="14" data-instgrm-captioned style="background:#fff;border:0;border-radius:12px;box-shadow:0 0 1px 0 rgba(0,0,0,.4),0 1px 10px 0 rgba(0,0,0,.1);max-width:540px;width:100%;padding:0;margin:0 auto;">
+  <a href="https://www.instagram.com/p/DRtIyxDjtd1/" target="_blank" rel="noopener noreferrer">Instagramで見る</a>
+</blockquote>
+</div>
+
 ---
 
 ## 主要登場人物

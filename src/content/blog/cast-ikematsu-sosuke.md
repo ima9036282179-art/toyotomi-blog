@@ -66,6 +66,18 @@ tags: ["キャスト・人物", "池松壮亮", "豊臣秀吉"]
 
 ---
 
+## 公式インタビュー動画｜Toyotomi Bro's File
+
+NHK公式Instagramが公開している池松壮亮さんへのキャストインタビュー動画です。秀吉役への思いや、仲野太賀さんとの共演について語っています。
+
+<div style="display:flex;justify-content:center;margin:1.5rem 0;">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DT7tzMrD3aY/" data-instgrm-version="14" data-instgrm-captioned style="background:#fff;border:0;border-radius:12px;box-shadow:0 0 1px 0 rgba(0,0,0,.4),0 1px 10px 0 rgba(0,0,0,.1);max-width:540px;width:100%;padding:0;margin:0 auto;">
+  <a href="https://www.instagram.com/reel/DT7tzMrD3aY/" target="_blank" rel="noopener noreferrer">Instagramで見る</a>
+</blockquote>
+</div>
+
+---
+
 ## まとめ
 
 劇団四季の子役から出発し、日本映画界の最高峰まで登り詰めた池松壮亮さん。その多彩な役柄への適応力は、天下人・秀吉という人物の複雑さを表現するのに最適な俳優といえます。主役・秀長（仲野太賀）との掛け合いに引き続き注目です。

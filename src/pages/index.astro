@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import XEmbed from '../components/XEmbed.astro';
+import InstagramEmbed from '../components/InstagramEmbed.astro';
 import { getCollection } from 'astro:content';
 import { readingTime } from '../utils/readingTime';
 
@@ -90,6 +91,21 @@ for (const s of seriesLinks) {
     </div>
   </section>
 
+  <!-- 公式Instagram -->
+  <section class="instagram-section fade-in-up">
+    <p class="sns-heading">📸 公式Instagram（@nhk_toyotomi）</p>
+    <div class="instagram-grid">
+      <InstagramEmbed url="https://www.instagram.com/reel/DVGLmOSE7Oi/" />
+      <InstagramEmbed url="https://www.instagram.com/p/DTXn-1_ClBt/" />
+      <InstagramEmbed url="https://www.instagram.com/reel/DT7tKpDDw9_/" />
+    </div>
+    <div class="sns-more">
+      <a href="https://www.instagram.com/nhk_toyotomi/" target="_blank" rel="noopener noreferrer" class="instagram-follow-btn">
+        📷 公式Instagramをフォローする →
+      </a>
+    </div>
+  </section>
+
   <!-- おすすめの1本 -->
   {featuredPost && (
     <section class="featured-section fade-in-up">
@@ -158,6 +174,9 @@ for (const s of seriesLinks) {
 <!-- X (Twitter) ウィジェット読み込み -->
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" is:inline></script>
 
+<!-- Instagram 埋め込みスクリプト -->
+<script async src="//www.instagram.com/embed.js" is:inline></script>
+
 <style>
   .sns-section {
     margin: 2rem 0 2.5rem;
@@ -194,8 +213,32 @@ for (const s of seriesLinks) {
   .sns-follow-btn:hover {
     opacity: 0.75;
   }
+  .instagram-section {
+    margin: 2rem 0 2.5rem;
+  }
+  .instagram-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+    align-items: start;
+  }
+  .instagram-follow-btn {
+    display: inline-block;
+    padding: 0.6rem 1.4rem;
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+    color: #fff;
+    border-radius: 9999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .instagram-follow-btn:hover {
+    opacity: 0.8;
+  }
   @media (max-width: 640px) {
-    .sns-grid {
+    .sns-grid,
+    .instagram-grid {
       grid-template-columns: 1fr;
     }
   }

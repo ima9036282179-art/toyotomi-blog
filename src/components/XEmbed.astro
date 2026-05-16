@@ -1,0 +1,23 @@
+---
+interface Props {
+  url: string;
+}
+const { url } = Astro.props;
+---
+
+<div class="x-embed-wrapper">
+  <blockquote class="twitter-tweet" data-lang="ja" data-dnt="true">
+    <a href={url}></a>
+  </blockquote>
+</div>
+
+<style>
+  .x-embed-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .x-embed-wrapper .twitter-tweet {
+    margin: 0 auto !important;
+  }
+</style>

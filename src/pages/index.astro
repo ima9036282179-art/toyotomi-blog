@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import XEmbed from '../components/XEmbed.astro';
 import { getCollection } from 'astro:content';
 import { readingTime } from '../utils/readingTime';
 
@@ -74,6 +75,21 @@ for (const s of seriesLinks) {
     </section>
   )}
 
+  <!-- 公式SNS最新情報 -->
+  <section class="sns-section fade-in-up">
+    <p class="sns-heading">📱 公式X（@nhk_toyotomi）最新情報</p>
+    <div class="sns-grid">
+      <XEmbed url="https://x.com/nhk_toyotomi/status/2044249696047378704" />
+      <XEmbed url="https://x.com/nhk_toyotomi/status/2011710389323698353" />
+      <XEmbed url="https://x.com/nhk_toyotomi/status/2007391745101979762" />
+    </div>
+    <div class="sns-more">
+      <a href="https://x.com/nhk_toyotomi" target="_blank" rel="noopener noreferrer" class="sns-follow-btn">
+        𝕏 公式アカウントをフォローする →
+      </a>
+    </div>
+  </section>
+
   <!-- おすすめの1本 -->
   {featuredPost && (
     <section class="featured-section fade-in-up">
@@ -138,6 +154,52 @@ for (const s of seriesLinks) {
     <p class="no-results" id="noResults" style="display:none;">該当する記事がありません。</p>
   </section>
 </BaseLayout>
+
+<!-- X (Twitter) ウィジェット読み込み -->
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8" is:inline></script>
+
+<style>
+  .sns-section {
+    margin: 2rem 0 2.5rem;
+  }
+  .sns-heading {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1.2rem;
+  }
+  .sns-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+    align-items: start;
+  }
+  .sns-more {
+    text-align: center;
+    margin-top: 1.2rem;
+  }
+  .sns-follow-btn {
+    display: inline-block;
+    padding: 0.6rem 1.4rem;
+    background: #000;
+    color: #fff;
+    border-radius: 9999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .sns-follow-btn:hover {
+    opacity: 0.75;
+  }
+  @media (max-width: 640px) {
+    .sns-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
 
 <script>
   const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');

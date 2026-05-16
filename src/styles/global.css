@@ -335,10 +335,10 @@ img { max-width: 100%; height: auto; display: block; }
    ============================================================ */
 .hero-banner {
   background:
-    linear-gradient(155deg, rgba(26,0,0,0.78) 0%, rgba(69,10,10,0.68) 35%, rgba(127,29,29,0.62) 65%, rgba(42,0,0,0.78) 100%),
-    url('/imanari-blog/images/sakura-canal.jpg');
+    linear-gradient(155deg, rgba(20,5,0,0.72) 0%, rgba(60,15,5,0.60) 40%, rgba(110,40,10,0.52) 70%, rgba(20,5,0,0.72) 100%),
+    url('/toyotomi-blog/images/hero-bg.jpg');
   background-size: cover;
-  background-position: center 40%;
+  background-position: center 55%;
   padding: 5rem 1.5rem 4.5rem;
   text-align: center;
   position: relative;
@@ -347,7 +347,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .hero-banner::before {
-  content: '龍';
+  content: '城';
   position: absolute;
   right: -1.5rem;
   top: 50%;

@@ -218,9 +218,8 @@ for (const s of seriesLinks) {
   }
   .instagram-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    column-gap: 1.5rem;
-    row-gap: 2.5rem;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
     align-items: start;
   }
   .instagram-follow-btn {
@@ -241,6 +240,7 @@ for (const s of seriesLinks) {
     .sns-grid,
     .instagram-grid {
       grid-template-columns: 1fr;
+      gap: 1.5rem;
     }
   }
 </style>

@@ -237,6 +237,7 @@ tags: ["ドラマ感想", "あらすじ", "豊臣秀長", "豊臣秀吉", "キ�
 <p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">豊臣兄弟！ 前編（NHK大河ドラマ・ガイド）</p>
 <p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">キャスト情報・あらすじ・撮影舞台裏を完全収録した公式ガイドブック。ドラマをより深く楽しみたい方に必携の一冊。</p>
 <a href="https://amzn.to/4nDECQL" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF9900;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">Amazonで見る →</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/53eddbb9.d84b71ef.53eddbba.0fd9726a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18428097%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#bf0000;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;margin-left:0.5rem;">楽天で見る →</a>
 </div>
 
 <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
@@ -244,6 +245,7 @@ tags: ["ドラマ感想", "あらすじ", "豊臣秀長", "豊臣秀吉", "キ�
 <p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">全一冊 豊臣秀長 ある補佐役の生涯（PHP文庫）</p>
 <p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">堺屋太一著。豊臣秀長の生涯を描いた名作小説。「天下人の弟」が何を考え、どう生きたかを知りたい方に。</p>
 <a href="https://amzn.to/499LKhE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF9900;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">Amazonで見る →</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/53eddbb9.d84b71ef.53eddbba.0fd9726a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13121039%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#bf0000;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;margin-left:0.5rem;">楽天で見る →</a>
 </div>
 
 <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
@@ -251,9 +253,10 @@ tags: ["ドラマ感想", "あらすじ", "豊臣秀長", "豊臣秀吉", "キ�
 <p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">13歳のきみと、戦国時代の「戦」の話をしよう。</p>
 <p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">戦国時代の合戦・武将・政治をわかりやすく解説した入門書。ドラマで興味を持った戦国時代をもっと知りたい方に。</p>
 <a href="https://amzn.to/3PLlLGM" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF9900;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">Amazonで見る →</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/53eddbb9.d84b71ef.53eddbba.0fd9726a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16469607%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#bf0000;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;margin-left:0.5rem;">楽天で見る →</a>
 </div>
 
-<p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.5rem;">※Amazonアソシエイトプログラムを利用しています。</p>
+<p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.5rem;">※AmazonアソシエイトおよびAkatenアフィリエイトプログラムを利用しています。</p>
 
 ---
 

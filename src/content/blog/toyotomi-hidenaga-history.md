@@ -82,6 +82,26 @@ tags: ["史実解説", "豊臣秀長", "大和大納言", "豊臣政権"]
 
 ---
 
+## 関連書籍・おすすめ本
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">📺 公式ガイドブック</p>
+<p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">豊臣兄弟！ 前編（NHK大河ドラマ・ガイド）</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">キャスト情報・あらすじ・撮影舞台裏を完全収録した公式ガイドブック。</p>
+<a href="https://amzn.to/4nDECQL" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF9900;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">Amazonで見る →</a>
+</div>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">📚 人物・歴史小説</p>
+<p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">全一冊 豊臣秀長 ある補佐役の生涯（PHP文庫）</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">堺屋太一著。豊臣秀長の生涯を描いた名作。このページで紹介した「補佐役・秀長」の人物像をさらに深く知れる一冊。</p>
+<a href="https://amzn.to/499LKhE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF9900;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">Amazonで見る →</a>
+</div>
+
+<p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.5rem;">※Amazonアソシエイトプログラムを利用しています。</p>
+
+---
+
 ## まとめ：「縁の下の力持ち」が支えた天下統一
 
 豊臣秀長は派手な武将ではありませんでした。しかし、行政・外交・軍事のすべてで卓越した能力を発揮し、豊臣政権の「土台」を作り続けた人物です。

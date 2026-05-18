@@ -166,3 +166,23 @@ NHK大河ドラマ「豊臣兄弟！」では、第19話（2026年5月17日放�
 | 意義は？ | 秀吉が「信長後継」を確立。天下統一への道が開けた |
 
 賤ヶ岳の戦いは、第19話で種が蒔かれた「秀吉と勝家の亀裂」の最終決着です。「豊臣兄弟！」後半でこの場面がどう描かれるか、今から注目です。
+
+---
+
+## 関連書籍・おすすめ本
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">📖 戦国時代入門</p>
+<p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">13歳のきみと、戦国時代の「戦」の話をしよう。</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">賤ヶ岳の戦いをはじめ、戦国時代の合戦をわかりやすく解説した入門書。ドラマで興味を持った戦国時代をさらに深掘りしたい方に。</p>
+<a href="https://amzn.to/3PLlLGM" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF9900;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">Amazonで見る →</a>
+</div>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">📚 人物・歴史小説</p>
+<p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">全一冊 豊臣秀長 ある補佐役の生涯（PHP文庫）</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">堺屋太一著。賤ヶ岳の戦いでも活躍した豊臣秀長の生涯を描いた名作小説。</p>
+<a href="https://amzn.to/499LKhE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF9900;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">Amazonで見る →</a>
+</div>
+
+<p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.5rem;">※Amazonアソシエイトプログラムを利用しています。</p>

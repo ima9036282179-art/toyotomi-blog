@@ -165,6 +165,28 @@ NHK大河ドラマ「豊臣兄弟！」は**豊臣秀長（小一郎）**の視�
 
 ---
 
+## 関連記事
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-weight:700;margin:0 0 0.5rem;">⚔️ 賤ヶ岳の戦いをわかりやすく解説</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;">本能寺の変の後、秀吉vs柴田勝家の最終決戦へ。七本槍・お市の最期まで解説。</p>
+<a href="/toyotomi-blog/blog/toyotomi-shizugatake/" style="display:inline-block;background:var(--accent);color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">賤ヶ岳の戦いを読む →</a>
+</div>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-weight:700;margin:0 0 0.5rem;">📺 第19話あらすじ・感想</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;">本能寺の変への伏線が仕込まれた第19話。安土城・信長・秀吉と勝家の対立を解説。</p>
+<a href="/toyotomi-blog/blog/toyotomi-ep19-review/" style="display:inline-block;background:var(--accent);color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">第19話レビューを読む →</a>
+</div>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-weight:700;margin:0 0 0.5rem;">📋 全話あらすじ一覧（第1話〜最新話）</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;">「豊臣兄弟！」全話のあらすじをまとめて確認できます。</p>
+<a href="/toyotomi-blog/blog/toyotomi-story-guide/" style="display:inline-block;background:var(--accent);color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">あらすじ一覧を見る →</a>
+</div>
+
+---
+
 ## 関連書籍・おすすめ本
 
 <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">

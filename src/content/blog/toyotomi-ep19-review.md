@@ -372,6 +372,28 @@ tags: ["ドラマ感想", "第19話", "慶", "吉岡里帆", "柴田勝家", "�
 
 ---
 
+## 関連記事
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-weight:700;margin:0 0 0.5rem;">🔥 本能寺の変をわかりやすく解説</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;">第19話で迫ってきた「信長の終わり」。なぜ光秀は裏切ったのか、5つの説と史実の流れを解説。</p>
+<a href="/toyotomi-blog/blog/toyotomi-honnoji/" style="display:inline-block;background:var(--accent);color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">本能寺の変を読む →</a>
+</div>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-weight:700;margin:0 0 0.5rem;">⚔️ 賤ヶ岳の戦いをわかりやすく解説</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;">第19話で種が蒔かれた秀吉vs勝家の対立の最終決着。七本槍・お市の最期まで解説。</p>
+<a href="/toyotomi-blog/blog/toyotomi-shizugatake/" style="display:inline-block;background:var(--accent);color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">賤ヶ岳の戦いを読む →</a>
+</div>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-weight:700;margin:0 0 0.5rem;">📋 全話あらすじ一覧（第1話〜最新話）</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;">「豊臣兄弟！」全話のあらすじをまとめて確認できます。第20話もここから。</p>
+<a href="/toyotomi-blog/blog/toyotomi-story-guide/" style="display:inline-block;background:var(--accent);color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">あらすじ一覧を見る →</a>
+</div>
+
+---
+
 ## 関連書籍・おすすめ本
 
 第19話をさらに深く楽しむための書籍を紹介します。

@@ -75,7 +75,7 @@ tags: ["ドラマ感想", "第20話", "豊臣秀長", "豊臣秀吉", "本能寺
 <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
 <p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">📺 動画配信サービス</p>
 <p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">スカパー！</p>
-<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">NHKプラスで見逃した方はスカパー！でも視聴可能。過去の大河ドラマや時代劇も楽しめます。</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">時代劇専門チャンネルで過去の大河ドラマや時代劇が充実。「豊臣兄弟！」ファンにおすすめのコンテンツが揃っています。</p>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B3XB5+FXCJF6+461Y+6D4GI" rel="nofollow" style="display:inline-block;background:#003087;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">スカパー！を見る →</a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B3XB5+FXCJF6+461Y+6D4GI" alt="">
 </div>

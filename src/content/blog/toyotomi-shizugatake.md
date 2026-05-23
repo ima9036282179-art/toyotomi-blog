@@ -194,6 +194,13 @@ NHK大河ドラマ「豊臣兄弟！」では、第19話（2026年5月17日放�
 ## 動画配信サービス
 
 <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">▶ 解説動画</p>
+<p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">【松永久秀と平蜘蛛の真実】史実解説動画</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">なぜ久秀は命と引き換えにしても平蜘蛛を渡さなかったのか。史実から徹底解説した動画です。</p>
+<a href="https://youtu.be/SbF05E5n0iQ" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#FF0000;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">YouTubeで見る →</a>
+</div>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
 <p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">▶ NHK公式YouTube</p>
 <p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">NHK「豊臣兄弟！」公式チャンネル</p>
 <p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">NHK公式YouTubeで予告・ダイジェスト動画を配信中。最新話の見どころを動画でチェック。</p>

@@ -190,6 +190,13 @@ NHK大河ドラマ「豊臣兄弟！」は**豊臣秀長（小一郎）**の視�
 ## 動画配信サービス
 
 <div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
+<p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">▶ NHK公式YouTube</p>
+<p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">NHK「豊臣兄弟！」公式チャンネル</p>
+<p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">NHK公式YouTubeで予告・ダイジェスト動画を配信中。最新話の見どころを動画でチェック。</p>
+<a href="https://youtu.be/4hzxd9tHNZU?si=aoPC0-JtOIO_-gYi" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#FF0000;color:#fff;padding:0.45rem 1.1rem;border-radius:6px;font-size:0.85rem;font-weight:700;text-decoration:none;">YouTubeで見る →</a>
+</div>
+
+<div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:1.25rem;margin:1rem 0;">
 <p style="font-size:0.78rem;color:var(--text-muted);margin:0 0 0.3rem;font-weight:700;">📺 動画配信サービス</p>
 <p style="font-weight:700;margin:0 0 0.5rem;font-size:1rem;">スカパー！</p>
 <p style="font-size:0.88rem;color:var(--text-muted);margin:0 0 0.75rem;line-height:1.7;">時代劇専門チャンネルで過去の大河ドラマや時代劇が充実。「豊臣兄弟！」ファンにおすすめのコンテンツが揃っています。</p>

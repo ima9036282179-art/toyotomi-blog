@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+---
+
+<BaseLayout
+  title="お問い合わせ"
+  description="豊臣兄弟！ブログへのお問い合わせページです。ご質問・ご意見・ご感想はX（旧Twitter）のDMにてお気軽にどうぞ。"
+>
+  <div class="contact-page">
+    <h1 class="contact-h1">お問い合わせ</h1>
+    <p class="contact-lead">当ブログへのご質問・ご意見・ご感想は、X（旧Twitter）のDMにてお気軽にお送りください。</p>
+
+    <div class="contact-card">
+      <div class="contact-icon">💬</div>
+      <div class="contact-body">
+        <p class="contact-method-title">X（旧Twitter）DM</p>
+        <p class="contact-method-desc">ご連絡はXのダイレクトメッセージにて受け付けています。<br>通常2〜3日以内にご返信いたします。</p>
+        <a
+          href="https://x.com/karaima25"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="contact-btn"
+        >
+          X（@karaima25）へ連絡する →
+        </a>
+      </div>
+    </div>
+
+    <div class="contact-notes">
+      <h2>お問い合わせの前にご確認ください</h2>
+      <ul>
+        <li>ドラマのネタバレを含むお問い合わせはご遠慮ください。</li>
+        <li>記事内容に誤りを発見した場合は、ぜひご連絡ください。迅速に修正対応いたします。</li>
+        <li>営業・スパム目的のお問い合わせにはお答えできません。</li>
+        <li>返信までお時間をいただく場合がございます。あらかじめご了承ください。</li>
+      </ul>
+    </div>
+
+    <div class="contact-about">
+      <h2>運営者情報</h2>
+      <table class="contact-table">
+        <tr>
+          <th>ブログ名</th>
+          <td>豊臣兄弟！ブログ</td>
+        </tr>
+        <tr>
+          <th>運営者</th>
+          <td>karaima25</td>
+        </tr>
+        <tr>
+          <th>X（旧Twitter）</th>
+          <td><a href="https://x.com/karaima25" target="_blank" rel="noopener noreferrer">@karaima25</a></td>
+        </tr>
+        <tr>
+          <th>サイトURL</th>
+          <td><a href="https://ima9036282179-art.github.io/toyotomi-blog/">https://ima9036282179-art.github.io/toyotomi-blog/</a></td>
+        </tr>
+        <tr>
+          <th>運営開始</th>
+          <td>2026年</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="contact-links">
+      <a href={`${base}privacy/`} class="contact-link-sub">プライバシーポリシー・免責事項</a>
+      <a href={base} class="contact-link-sub">← トップページに戻る</a>
+    </div>
+  </div>
+</BaseLayout>
+
+<style is:global>
+.contact-page { max-width: 680px; margin: 0 auto; padding: 2.5rem 0 5rem; }
+
+.contact-h1 { font-family: 'Noto Serif JP', serif; font-size: 1.8rem; font-weight: 900; color: var(--text); margin-bottom: 0.6rem; }
+.contact-lead { font-size: 0.97rem; color: var(--text-muted); line-height: 1.8; margin-bottom: 2rem; }
+
+.contact-card { display: flex; gap: 1.25rem; align-items: flex-start; background: var(--bg-card); border: 1px solid var(--border); border-radius: 16px; padding: 1.75rem; margin-bottom: 2rem; }
+.contact-icon { font-size: 2.2rem; flex-shrink: 0; }
+.contact-body { flex: 1; }
+.contact-method-title { font-weight: 900; font-size: 1.1rem; margin: 0 0 0.5rem; color: var(--text); }
+.contact-method-desc { font-size: 0.9rem; color: var(--text-muted); line-height: 1.75; margin: 0 0 1rem; }
+.contact-btn { display: inline-block; background: #000; color: #fff; padding: 0.6rem 1.4rem; border-radius: 8px; font-size: 0.88rem; font-weight: 700; text-decoration: none; transition: opacity 0.15s; }
+.contact-btn:hover { opacity: 0.8; }
+
+.contact-notes { margin-bottom: 2.5rem; }
+.contact-notes h2 { font-size: 1.05rem; font-weight: 700; border-left: 3px solid var(--accent); padding-left: 0.8rem; margin-bottom: 1rem; color: var(--text); }
+.contact-notes ul { padding-left: 1.4rem; }
+.contact-notes li { font-size: 0.9rem; color: var(--text-muted); line-height: 1.9; margin-bottom: 0.4rem; }
+
+.contact-about { margin-bottom: 2.5rem; }
+.contact-about h2 { font-size: 1.05rem; font-weight: 700; border-left: 3px solid var(--accent); padding-left: 0.8rem; margin-bottom: 1rem; color: var(--text); }
+.contact-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.contact-table th, .contact-table td { padding: 0.7rem 0.9rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+.contact-table th { width: 35%; color: var(--text-muted); font-weight: 700; white-space: nowrap; }
+.contact-table td { color: var(--text); }
+.contact-table a { color: var(--accent); text-decoration: underline; }
+
+.contact-links { display: flex; flex-direction: column; gap: 0.6rem; margin-top: 2.5rem; }
+.contact-link-sub { color: var(--text-muted); font-size: 0.85rem; text-decoration: none; }
+.contact-link-sub:hover { color: var(--accent); }
+
+@media (max-width: 600px) {
+  .contact-card { flex-direction: column; }
+  .contact-table th { width: 40%; }
+}
+</style>
